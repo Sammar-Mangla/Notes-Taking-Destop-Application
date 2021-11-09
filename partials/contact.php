@@ -272,7 +272,7 @@ else if($_POST['signin']!=0){
     <div id="menu" class="fas fa-bars"></div>
 
     <nav class="navbar">
-        <a href="inotes.php" style="text-decoration: none;">Home</a>
+        <a href="../inotes.php" style="text-decoration: none;">Home</a>
         <a href="mynotes.php" style="text-decoration: none;">My Notes</a>
         <a href="review.php" style="text-decoration: none;">Features</a>
         <a href="contact.php" style="text-decoration: none;">Contact</a>
